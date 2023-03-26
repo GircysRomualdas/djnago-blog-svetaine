@@ -1,0 +1,2 @@
+# djnago-blog-svetaine
+ 
