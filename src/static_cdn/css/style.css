@@ -1,0 +1,23 @@
+
+/* footer lways at the end of the page  */
+.main {
+    min-height: 100vh;
+    height: 100%;
+}
+
+/* navbar style */
+a:link { 
+    text-decoration: none; 
+}
+
+footer {
+    min-height: 100px;
+}
+
+.inputw{
+    max-width: 400px;
+    min-width: 400px;
+}
+
+
+
